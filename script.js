@@ -1,6 +1,3 @@
-// =========================
-// ACTIVE NAVBAR LINK
-// =========================
 
 const sections = document.querySelectorAll("section");
 const navLinks = document.querySelectorAll(".nav-link");
@@ -32,9 +29,7 @@ window.addEventListener("scroll", () => {
 
 });
 
-// =========================
-// SCROLL REVEAL ANIMATION
-// =========================
+
 
 const revealElements = document.querySelectorAll(
   ".skills-card, .service-card, .about-card, .contact-box"
@@ -61,7 +56,7 @@ function revealOnScroll(){
 
 }
 
-// Initial Style
+
 revealElements.forEach((element) => {
 
   element.style.opacity = "0";
