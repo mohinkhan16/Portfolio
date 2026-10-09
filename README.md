@@ -14,6 +14,7 @@
 ## 🌟 Live Demo & Preview
 - **Developer**: Pathan Mohinkhan
 - **Role**: Full-Stack Web Developer (MERN Stack)
+- **Portfolio Link**: [[github.com/mohinkhan16](https://github.com/mohinkhan16](https://portfolio-ebon-kappa-9g185dxyc7.vercel.app/))
 - **GitHub Profile**: [github.com/mohinkhan16](https://github.com/mohinkhan16)
 - **LinkedIn Profile**: [linkedin.com/in/mohinkhan16](https://www.linkedin.com/in/mohinkhan16)
 - **Location**: Bhavnagar, Gujarat, India 🇮🇳
