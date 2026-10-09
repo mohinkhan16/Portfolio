@@ -157,7 +157,6 @@ npm run preview
 - **GitHub**: [@mohinkhan16](https://github.com/mohinkhan16)
 - **LinkedIn**: [in/mohinkhan16](https://www.linkedin.com/in/mohinkhan16)
 - **Email**: [mohinpathan2004@gmail.com](mailto:mohinpathan2004@gmail.com)
-- **Phone**: +91 9638955041
 
 ---
 
